@@ -3,7 +3,7 @@ Algorithmic trading
 
 - [x] Set up repo
 - [ ] Realtime Web Scraping
- - [ ] Which Sources To Use?
+ - [ ] Determine Sources
  - [ ] APIs
  - [ ] Articles
  - [ ] Twitter / Mastodon / BlueSky / etc
